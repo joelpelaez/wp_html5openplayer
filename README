@@ -1,0 +1,11 @@
+============ HTML5 Open Player ============
+
+HTML5 Open Player is a Simple interface for use audio and video HTML5 tags
+in Wordpress
+
+This plugin is released under GNU GPL v3
+
+For installing the plugin, copy html5openplayer.php to blog-path/wp-content/plugin/
+and activate the plugin in Blog Dashboard
+
+For bugs or suggests or patches, send a mail to joelpelaez@gmail.com
